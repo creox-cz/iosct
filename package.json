@@ -1,0 +1,11 @@
+{
+  "name": "cordova-plugin-ios-call-trap",
+  "version": "0.0.1",
+  "cordova": {
+    "id": "cordova-plugin-ios-call-trap",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "description": "Call detector for iOS"
+}
