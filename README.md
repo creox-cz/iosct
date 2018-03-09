@@ -2,6 +2,10 @@
 
 iOS call trap cordova plugin
 
+## Install
+
+    cordova plugin add https://github.com/creox-cz/iosct.git
+
 ## Use
 
 ```js
