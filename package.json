@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-ios-call-trap",
   "author": "Creox s.r.o.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "cordova", "cordova-ios", "call-trap-ios"
   ],
