@@ -1,11 +1,20 @@
 {
   "name": "cordova-plugin-ios-call-trap",
+  "author": "Creox s.r.o.",
   "version": "0.0.1",
+  "keywords": [
+    "cordova", "cordova-ios", "call-trap-ios"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vkcreox/iosct.git"
+  },
   "cordova": {
     "id": "cordova-plugin-ios-call-trap",
     "platforms": [
       "ios"
     ]
   },
-  "description": "Call detector for iOS"
+  "description": "Call detector for iOS",
+  "homepage": "https://www.creox.cz/"
 }
